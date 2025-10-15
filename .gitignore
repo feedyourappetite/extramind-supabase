@@ -1,6 +1,17 @@
+# Environment variables / secrets
 .env
 .env.*
 supabase/.temp
-node_modules
+
+# Build outputs
 dist
+build
+out
+
+# Dependencies
+node_modules
+
+# OS / Editor files
 .DS_Store
+.idea
+.vscode
